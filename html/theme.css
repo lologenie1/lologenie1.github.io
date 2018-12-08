@@ -1,0 +1,29 @@
+.brd {
+    border: 4px double black;
+    background:Yellow;
+    padding: 10px;
+    -webkit-box-shadow: 10px 17px 115px 35px rgba(23,13,0,1);
+-moz-box-shadow: 10px 17px 115px 35px rgba(23,13,0,1);
+box-shadow: 10px 17px 115px 35px rgba(23,13,0,1);
+}
+.brd1 {
+    border: 4px double black;
+    background: #fc3;
+    padding: 2px;
+    border-width:300;
+    -webkit-box-shadow: 10px 17px 60px 35px rgba(23,13,1,1);
+-moz-box-shadow: 10px 17px 60px 35px rgba(23,13,1,1);
+box-shadow: 10px 17px 60px 35px rgba(23,13,1,1);
+}
+.brd2 {
+    -webkit-box-shadow: 10px 17px 115px 35px rgba(23,13,0,1);
+-moz-box-shadow: 10px 17px 115px 35px rgba(23,13,0,1);
+box-shadow: 10px 17px 115px 35px rgba(23,13,0,1);
+}
+.brd3 {
+    border: 4px double black;
+    background:#ef75e4;
+    padding: 10px;
+    -webkit-box-shadow: 10px 17px 115px 35px rgba(23,13,0,1);
+-moz-box-shadow: 10px 17px 115px 35px rgba(23,13,0,1);
+box-shadow: 10px 17px 115px 35px rgba(23,13,0,1);
